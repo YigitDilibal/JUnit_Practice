@@ -2,7 +2,7 @@ package day01;
 
 import org.junit.jupiter.api.*;
 
-public class P02_TestNotasyon {
+public class P03_TestNotasyon {
 
     @BeforeAll
     public static void setup(){
