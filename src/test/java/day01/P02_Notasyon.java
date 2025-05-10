@@ -18,4 +18,6 @@ public class P02_Notasyon {
     public void test02(){
         System.out.println("2. Test çalıştı");
     }
+
+
 }
